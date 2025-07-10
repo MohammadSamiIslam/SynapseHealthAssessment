@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tkzzh60OY2k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msisl\\source\\repos\\SynapseHealthAssessment\\SynapseHealthAssessment\\SynapseHealthAssessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msisl\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.0.1\\microsoft.testing.extensions.telemetry.1.0.1.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.0.1\\microsoft.testing.extensions.trxreport.abstractions.1.0.1.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.0.1\\microsoft.testing.extensions.vstestbridge.1.0.1.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\microsoft.testing.platform\\1.0.1\\microsoft.testing.platform.1.0.1.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.0.1\\microsoft.testing.platform.msbuild.1.0.1.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\mstest.testadapter\\3.2.1\\mstest.testadapter.3.2.1.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\mstest.testframework\\3.2.1\\mstest.testframework.3.2.1.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\msisl\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
